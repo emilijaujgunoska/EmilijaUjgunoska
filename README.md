@@ -7,7 +7,7 @@ I have experience in using ASP.NET, C#, HTML, CSS, JavaScript, Angular and SQL S
 👯  looking for an opportunity to join a dynamic team of developers where I can apply my knowledge and skills to create innovative web applications that meet the needs of the clients and users.  
 
 
-🔗 https://app.netlify.com/teams/emilijaujgunoska/overview
+🔗 https://www.linkedin.com/in/emilija-ujgunoska-9530a3199/
 
 
 📫 How to reach me: emilija.u07@gmail.com // emilija.1999@yahoo.com
