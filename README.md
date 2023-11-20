@@ -14,3 +14,4 @@ I have experience in using ASP.NET, C#, HTML, CSS, JavaScript, Angular and SQL S
 
 
 - ⚡ Hobbies: playing the piano , video games and sometimes tennis.
+- 🎯Goal in life: to speak as many languages as i can learn !
