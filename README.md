@@ -1,10 +1,12 @@
-### Hi👋 I am Emilija Ujgunoska !
+### Hi👋 I am Emilija Ujgunoska ! 
 
 What you need to know about me:
 
+🌏Borm in Melbourne, Australia / Currently living in North Macedonia.
 👩‍💻 24 y/o aspiring full stack web developer 🌿  
 I have experience in using ASP.NET, C#, HTML, CSS, JavaScript, Angular and SQL Server to develop both front-end and back-end features.
 👯  looking for an opportunity to join a dynamic team of developers where I can apply my knowledge and skills to create innovative web applications that meet the needs of the clients and users.  
+🔗https://resume.io/r/eYEAacoix
 
 Some of the projects i did:
 
