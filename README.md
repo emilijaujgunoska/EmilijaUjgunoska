@@ -2,7 +2,7 @@
 
 What you need to know about me:
 
-🌏Borm in Melbourne, Australia / Currently living in North Macedonia.
+🌏Born in Melbourne, Australia / Currently living in North Macedonia.
 
 👩‍💻 24 y/o aspiring full stack .Net web developer 🌿  
 I have experience in using ASP.NET, C#, HTML, CSS, JavaScript, Angular and SQL Server to develop both front-end and back-end features.
